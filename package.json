@@ -1,7 +1,7 @@
 {
   "name": "next-version",
   "version": "1.0.0",
-  "description": "Increments a project to the next version.",
+  "description": "Increments a project to the next version.  ",
   "main": "src/main.js",
   "scripts": {
     "lint": "eslint .",
