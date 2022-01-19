@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/Piszmog/next-version/actions/workflows/ci.yml/badge.svg)](https://github.com/Piszmog/next-version/actions/workflows/ci.yml)
 
+
+
 Increment the **semantic** version of the project to the next version. Used to increment the version at Pull Request
 time.
 
